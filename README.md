@@ -49,15 +49,6 @@ The models were evaluated using the following metrics:
 - **F1-Score**
 - **Accuracy**
 
-#### Example Results for Logistic Regression:
-
-          precision    recall  f1-score   support
-
-     edu     0.9781    0.9992    0.9885     37131
-  nonedu     0.9989    0.9709    0.9847     28511
-
-accuracy                         0.9869     65642
-
 
 ## Technologies Used
 - **Python**: Main programming language for the project.
